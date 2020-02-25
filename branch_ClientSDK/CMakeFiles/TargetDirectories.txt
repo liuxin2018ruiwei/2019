@@ -1,0 +1,2 @@
+/home/ruiwei/workMakePath/src/CMakeFiles/DetectFaceSDK.dir
+/home/ruiwei/workMakePath/TestSuitDriver/CMakeFiles/TestSuitDriver.dir
